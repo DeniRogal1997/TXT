@@ -1,0 +1,3 @@
+name: Deni
+age: 24
+pets: 2
